@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshupatkar274&label=Profile%20views&color=0e75b6&style=flat" alt="himanshupatkar274" /> </p>
 
-- 🔭 I’m currently working on Unimrkt Response LLP [Opinion-Edge](https://panel.opinion-edge.com/)
+- 🔭 I’m currently working on Web Development technologies like HTML, CSS, JavaScript, Angular, React, Node.js, Express.js etc
 
 - 🌱 I’m currently learning more about architecture and exploring advanced techniques to enhance user experiences **React.js, Next.js, Express.js, Node.js**
 
