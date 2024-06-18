@@ -12,7 +12,7 @@
 
 - 🧾 I'm looking to collaborate on innovative web projects that leverage my skills in the MEAN/MERN stack **Open to working with creative minds to build robust and user-friendly applications.**
 
-- 👨‍💻 All of my projects are available at [https://himanshupatkar274.github.io/Portfolio/](https://himanshupatkar274.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio-92438.web.app/](https://portfolio-92438.web.app/)
 
 - 💬 Ask me about **MEAN/ MERN Stack (MongoDB, Express, Angular/React, Node)**
 
